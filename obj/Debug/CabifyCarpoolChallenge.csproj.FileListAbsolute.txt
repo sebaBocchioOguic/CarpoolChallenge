@@ -1,0 +1,11 @@
+D:\Source\NET\CabifyCarpoolChallenge\CabifyCarpoolChallenge\bin\Debug\CabifyCarpoolChallenge.exe.config
+D:\Source\NET\CabifyCarpoolChallenge\CabifyCarpoolChallenge\bin\Debug\CabifyCarpoolChallenge.exe
+D:\Source\NET\CabifyCarpoolChallenge\CabifyCarpoolChallenge\bin\Debug\CabifyCarpoolChallenge.pdb
+D:\Source\NET\CabifyCarpoolChallenge\CabifyCarpoolChallenge\obj\Debug\CabifyCarpoolChallenge.csproj.AssemblyReference.cache
+D:\Source\NET\CabifyCarpoolChallenge\CabifyCarpoolChallenge\obj\Debug\CabifyCarpoolChallenge.csproj.SuggestedBindingRedirects.cache
+D:\Source\NET\CabifyCarpoolChallenge\CabifyCarpoolChallenge\obj\Debug\CabifyCarpoolChallenge.csproj.CoreCompileInputs.cache
+D:\Source\NET\CabifyCarpoolChallenge\CabifyCarpoolChallenge\obj\Debug\CabifyCarpoolChallenge.exe
+D:\Source\NET\CabifyCarpoolChallenge\CabifyCarpoolChallenge\obj\Debug\CabifyCarpoolChallenge.pdb
+D:\Source\NET\CabifyCarpoolChallenge\CabifyCarpoolChallenge\bin\Debug\Entities.dll
+D:\Source\NET\CabifyCarpoolChallenge\CabifyCarpoolChallenge\bin\Debug\Entities.pdb
+D:\Source\NET\CabifyCarpoolChallenge\CabifyCarpoolChallenge\obj\Debug\CabifyCarpoolChallenge.csproj.CopyComplete
