@@ -1,0 +1,6 @@
+D:\Source\NET\CabifyCarpoolChallenge\Entities\bin\Debug\Entities.dll
+D:\Source\NET\CabifyCarpoolChallenge\Entities\bin\Debug\Entities.pdb
+D:\Source\NET\CabifyCarpoolChallenge\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+D:\Source\NET\CabifyCarpoolChallenge\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Source\NET\CabifyCarpoolChallenge\Entities\obj\Debug\Entities.dll
+D:\Source\NET\CabifyCarpoolChallenge\Entities\obj\Debug\Entities.pdb
